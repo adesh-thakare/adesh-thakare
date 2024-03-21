@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adesh Thakare</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">writes artificial intelligence softwares</h3>
 
 <p align="left"> <a href="https://twitter.com/adeshthackeray" target="blank"><img src="https://img.shields.io/twitter/follow/adeshthackeray?logo=twitter&style=for-the-badge" alt="adeshthackeray" /></a> </p>
 

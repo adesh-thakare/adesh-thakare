@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adeshthackeray" target="blank"><img src="https://img.shields.io/twitter/follow/adeshthackeray?logo=twitter&style=for-the-badge" alt="adeshthackeray" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="giphy.gif">
 
 - 🔭 I’m currently working on [ABC](ABC)
 

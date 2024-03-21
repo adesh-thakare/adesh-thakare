@@ -1,4 +1,6 @@
-Hi there 👋 I am Adesh Thakare
-I'm a CSE Graduate student at University of California Davis. I love challenges in programming and algorithms. 
-
-
+### 🤵 < About Me />
+- 🤔 
+- 🌱 I’m currently exploring cryptography
+- 💬 Talk to me 
+- 😄 Pronouns: He/His/Him
+- 📝 Chapter

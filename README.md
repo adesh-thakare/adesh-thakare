@@ -3,6 +3,26 @@
 
 <p align="left"> <a href="https://twitter.com/adeshthackeray" target="blank"><img src="https://img.shields.io/twitter/follow/adeshthackeray?logo=twitter&style=for-the-badge" alt="adeshthackeray" /></a> </p>
 
+- 🔭 I’m currently working on [ABC](ABC)
+
+- 🌱 I’m currently learning **AI, LLMs, NLP**
+
+- 👯 I’m looking to collaborate on [ABC](ABC)
+
+- 🤝 I’m looking for help with [ABC](ABC)
+
+- 👨‍💻 All of my projects are available at [soon...](soon...)
+
+- 📝 I regularly write articles on [AI](AI)
+
+- 💬 Ask me about **AI, LLMs**
+
+- 📫 How to reach me **adeshthakare10@gmail.com**
+
+- 📄 Know about my experiences [soon...](soon...)
+
+- ⚡ Fun fact **I think AI will rule the world**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

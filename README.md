@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Adesh Thakare</h1>
-<h3 align="center">writes  artificial intelligence softwares</h3>
+<h3 align="center">Writes  artificial intelligence softwares</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=adesh-thakare&color=green alt=adesh-thakare/> </p>
 

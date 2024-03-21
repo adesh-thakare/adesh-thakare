@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adesh Thakare</h1>
 <h3 align="center">writes artificial intelligence softwares</h3>
-![](https://komarev.com/ghpvc/?username=your-github-adesh-thakare&color=green)
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=adesh-thakare alt=adesh-thakare/> </p>
+
+
 <p align="left"> <a href="https://twitter.com/adeshthackeray" target="blank"><img src="https://img.shields.io/twitter/follow/adeshthackeray?logo=twitter&style=for-the-badge" alt="adeshthackeray" /></a> </p>
 
 - 🔭 I’m currently working on [ABC](ABC)

@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="giphy.gif">
 
-- 🔭 I’m currently working on [ABC](ABC)
+- 🔭 I’m currently working on [Document chatbot using Open AI chatgpt model]
 
 - 🌱 I’m currently learning **AI, LLMs, NLP**
 

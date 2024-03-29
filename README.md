@@ -9,23 +9,15 @@
 
 <img align="right" alt="Coding" width="400" src="giphy.gif">
 
-- 🔭 I’m currently working on [Document chatbot using Open AI chatgpt model]
+- 🔭 I’m currently working on Document chatbot using Open AI gpt
 
 - 🌱 I’m currently learning **AI, LLMs, NLP**
 
-- 👯 I’m looking to collaborate on [ABC](ABC)
+- 👯 I’m looking to collaborate on AI for E-commerce 
 
-- 🤝 I’m looking for help with [ABC](ABC)
-
-- 👨‍💻 All of my projects are available at [soon...](soon...)
-
-- 📝 I regularly write articles on [AI](AI)
-
-- 💬 Ask me about **AI, LLMs**
+- 💬 Ask me about **AI, Fullstack, LLMs**
 
 - 📫 How to reach me **adeshthakare10@gmail.com**
-
-- 📄 Know about my experiences [soon...](soon...)
 
 - ⚡ Fun fact **I think AI will rule the world**
 

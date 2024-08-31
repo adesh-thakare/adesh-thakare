@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="giphy.gif">
 
-- 🔭 I’m currently working on Document chatbot using Open AI gpt
+- 🔭 I’m currently working on AI Infra 
 
 - 🌱 I’m currently learning **AI, LLMs, NLP**
 
@@ -18,8 +18,6 @@
 - 💬 Ask me about **AI, Fullstack, LLMs**
 
 - 📫 How to reach me **adeshthakare10@gmail.com**
-
-- ⚡ Fun fact **I think AI will rule the world**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

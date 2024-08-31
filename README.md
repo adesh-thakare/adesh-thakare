@@ -1,6 +1,6 @@
 <div align="center"> <img src="Pink And Green Motivation Quote LinkedIn Banner.png"> </div>
 <h1 align="center">Hello 👋, I'm Adesh Thakare</h1>
-<h3 align="center">Writes systems, fullstack & artificial intelligence softwares</h3>
+<h3 align="center">Building systems, fullstack & artificial intelligence</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=adesh-thakare&color=green alt=adesh-thakare/> </p>
 
